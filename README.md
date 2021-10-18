@@ -2,7 +2,7 @@
 
 Este código permite la creación, optimización y administración de un portafolio de inversión a través de acciones que se pueden comprar o vender en la Bolsa Mexicana de Valores (BMV).
 
-El código fue desarrollado en el ambiente de programación Google Colab, por lo que implica instalar algunas librerias antes de ejecutar el Administrador de Portafolios.
+El código fue desarrollado en el ambiente de programación Google Colab, por lo que implica instalar algunas librerias antes de ejecutar el Administrador de Portafolios. Esta instalación se puede omitir después de la primera ejecución en un ambiente local.
 
 Este código se muestran los resultados de una inversión de 100,000 a 60 días, sin una ventana de tiempo y con ventanas de tiempo de 10 días, 20 días y 30 días.
 
