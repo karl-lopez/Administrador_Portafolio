@@ -26,7 +26,7 @@ Para ejecutar el Administrador del Portafolio de requiere seguir los siguientes 
 
 #Ejecución de Experimentos
 
-En este notebook, se visualizan algunos experimentos realizados con la optimización de portafolios de inversión a través de simulaciones de Monte Carlo o Teoría de Portafolios. Además de evaluaciones de las redes neuronales para la identificación de un momenot alcista o bajista del portafolio de inversión creado.
+En este notebook, se visualizan algunos experimentos realizados con la optimización de portafolios de inversión a través de simulaciones de Monte Carlo o Teoría de Portafolios. Además de evaluaciones de las redes neuronales para la identificación de un momento alcista o bajista del portafolio de inversión creado.
 
 #Notebook Datos
 
